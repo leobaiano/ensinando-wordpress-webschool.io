@@ -1,57 +1,57 @@
 # curso-wordpress-webschool.io
 Repositório do curso de Wordpress da webschool.io
 
-Wordpress 
-O que é? 
-Porque usar?
+<strong>Wordpress </strong>
+O que é? <br/>
+Porque usar?<br/>
+<br/>
+<strong>Módulo 1 - Instalando e conheçendo o Wordpress</strong>
+Instalando WAMP Server<br/>
+Criando banco de dados<br/>
+Instalando Wordpress<br/>
+Conhecendo o menu mídia<br/>
+Conhecendo o menu páginas<br/>
+Conhecendo o menu posts<br/>
+Administrando comentários<br/>
+Instalando e removendo plugins<br/>
+Criando formulários de contato<br/>
+Criando menus<br/>
+Widgets<br/>
+Administrando usuários<br/>
+Ferramentas<br/>
+<br/>
+<strong>Módulo 2 - Criando temas para Wordpress</strong>
+Conhecendo o layout<br/>
+Codificando todo o front-end com html5, css3, angularjs e gulp.<br/>
+Criando campos e menus personalizados no painel<br/>
+Transformando em theme para Wordpress:<br/>
+Criando o header<br/>
+- Menu<br/>
+- Alteração de logo pelo painel<br/>
+- Alteração de cor do site pelo painel<br/>
+Criando o index<br/>
+Criando o footer<br/>
+Criando o single<br/>
+Criando modelos de página<br/>
+Entendendo o functions<br/>
+<br/>
+<strong>Módulo 3 - Lojas virtuais com Wordpres</strong><br/>
+- Conhecendo o layout da loja<br/>
+- Codificando o front-end do e-commerce<br/>
+- Conhecendo o Woocommerce <br/>
+- Transformando em theme para wordpress e integrando com woocommerce<br/>
+header<br/>
+index<br/>
+footer<br/>
+pagina de produtos<br/>
+pagina de checkout<br/>
+integração com pagseguro<br/>
 
-Módulo 1 - Instalando e conheçendo o Wordpress
-Instalando WAMP Server
-Criando banco de dados
-Instalando Wordpress
-Conhecendo o menu mídia
-Conhecendo o menu páginas
-Conhecendo o menu posts
-Administrando comentários
-Instalando e removendo plugins
-Criando formulários de contato
-Criando menus
-Widgets
-Administrando usuários
-Ferramentas
-
-Módulo 2 - Criando temas para Wordpress
-Conhecendo o layout
-Codificando todo o front-end com html5, css3, angularjs e gulp.
-Criando campos e menus personalizados no painel
-Transformando em theme para Wordpress:
-Criando o header
-- Menu
-- Alteração de logo pelo painel
-- Alteração de cor do site pelo painel
-Criando o index
-Criando o footer
-Criando o single
-Criando modelos de página
-Entendendo o functions
-
-Módulo 3 - Lojas virtuais com Wordpres
-- Conhecendo o layout da loja
-- Codificando o front-end do e-commerce
-- Conhecendo o Woocommerce 
-- Transformando em theme para wordpress e integrando com woocommerce
-header
-index
-footer
-pagina de produtos
-pagina de checkout
-integração com pagseguro
-
-Módulo 3 - SEO para Wordpress
-- Pagerank
-- Links permanentes
-- On page 
-- Off page
-- Melhores plugins
-- Google Search Console
+<strong>Módulo 3 - SEO para Wordpress</strong>
+- Pagerank<br/>
+- Links permanentes<br/>
+- On page <br/>
+- Off page<br/>
+- Melhores plugins<br/>
+- Google Search Console<br/>
 - Sitemap.xml
