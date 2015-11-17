@@ -1,11 +1,11 @@
 # curso-wordpress-webschool.io
-Repositório do curso de Wordpress da webschool.io
+Repositório do curso de WordPress da webschool.io
 
 <strong>Wordpress </strong>
 - O que é? <br/>
 - Porque usar?<br/>
 <br/>
-<strong>Módulo 1 - Instalando e conheçendo o Wordpress</strong><br/>
+<strong>Módulo 1 - Instalando e conheçendo o WordPress</strong><br/>
 - Instalando WAMP Server<br/>
 - Criando banco de dados<br/>
 - Instalando Wordpress<br/>
@@ -20,11 +20,11 @@ Repositório do curso de Wordpress da webschool.io
 - Administrando usuários<br/>
 - Ferramentas<br/>
 <br/>
-<strong>Módulo 2 - Criando temas para Wordpress</strong>
+<strong>Módulo 2 - Criando temas para WordPress</strong>
 - Conhecendo o layout<br/>
 - Codificando todo o front-end com html5, css3, angularjs e gulp.<br/>
 - Criando campos e menus personalizados no painel<br/>
-- Transformando em theme para Wordpress:<br/>
+- Transformando em theme para WordPress:<br/>
 - Criando o header<br/>
 - Menu<br/>
 - Alteração de logo pelo painel<br/>
@@ -35,7 +35,7 @@ Repositório do curso de Wordpress da webschool.io
 - Criando modelos de página<br/>
 - Entendendo o functions<br/>
 <br/>
-<strong>Módulo 3 - Lojas virtuais com Wordpres</strong><br/>
+<strong>Módulo 3 - Lojas virtuais com WordPres</strong><br/>
 - Conhecendo o layout da loja<br/>
 - Codificando o front-end do e-commerce<br/>
 - Conhecendo o Woocommerce <br/>
@@ -47,7 +47,7 @@ Repositório do curso de Wordpress da webschool.io
 - pagina de checkout<br/>
 - integração com pagseguro<br/>
 
-<strong>Módulo 3 - SEO para Wordpress</strong>
+<strong>Módulo 3 - SEO para WordPress</strong>
 - Pagerank<br/>
 - Links permanentes<br/>
 - On page <br/>
